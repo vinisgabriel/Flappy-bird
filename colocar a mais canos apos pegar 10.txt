@@ -1,0 +1,15 @@
+colocar a mais canos apos pegar 10 moedas, e ficar aparecendo canos ate eu morrer feito
+
+editar a posição do passaro, caindo bico para baixo, subindo bico para cima
+
+quando vai começar ja mostra a tela certa
+
+so falta mostrar a tela final pedindo para reiniciar, e mostrando o recorde, e mudar a cor do passaro para amarelo
+
+feito so falta colocar a fonte estilizada
+
+
+
+cor do azul
+
+bluebird-downflap.png
