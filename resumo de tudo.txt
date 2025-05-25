@@ -1,7 +1,0 @@
-depois que eu fizer 10 pontos apos colidir com o proximo cano, entra no modo moeda
-ou seja colidir com o cano que me daria 11 pontos
-
-isso no teste10.py
-
-aqui gerei o executavel, e isso é o arquivo pronto, 
-aqui apenas a pasta dist importa e nela tem o teste 19_versao final.exe e ele é o executavel do jogo, logo so criar um atalho dele na area de trabalho e ai vai funcionar
